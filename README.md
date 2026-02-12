@@ -35,7 +35,7 @@ Motto: "Build fast, learn faster"
 
 <img src="https://img.shields.io/badge/🥇_BIGIDEA_Hackathon-1st_Place-FFD700?style=flat-square" /><br/>
 <img src="https://img.shields.io/badge/🥈_KKB_Agentic_AI_Hackathon-2nd_Place-C0C0C0?style=flat-square" /><br/>
-<img src="https://img.shields.io/badge/🏅_BTK_Akademi_Hackathon_2024-Award_Winner-CD7F32?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/🏅_Google_AI_Hackathon-Award_Winner-CD7F32?style=flat-square" /><br/>
 <img src="https://img.shields.io/badge/🏅_Trakya_Algorithm_Hackathon-Finalist-CD7F32?style=flat-square" /><br/>
 <img src="https://img.shields.io/badge/🏅_Generative_Media_Hackathon-Finalist-CD7F32?style=flat-square" /><br/>
 <img src="https://img.shields.io/badge/🏅_Shopify_Customer_Support_Agentic_Hackathon-Finalist-CD7F32?style=flat-square" /><br/>
