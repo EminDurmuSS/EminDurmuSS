@@ -41,7 +41,6 @@ Motto: "Build fast, learn faster"
 <img src="https://img.shields.io/badge/🏅_Shopify_Customer_Support_Agentic_Hackathon-Finalist-CD7F32?style=flat-square" /><br/>
 <img src="https://img.shields.io/badge/🏅_Teknofest_Technology_for_Humanity-Finalist-CD7F32?style=flat-square" /><br/>
 <img src="https://img.shields.io/badge/📄_RecipeRAG_Paper-ISWC_2025-6C63FF?style=flat-square" /><br/>
-<img src="https://img.shields.io/badge/🎓_Maastricht_University-AI_Research_Intern-6C63FF?style=flat-square" /><br/>
 <img src="https://img.shields.io/badge/👨‍🏫_GDSC_AlgoCamp-Educator-6C63FF?style=flat-square" /><br/>
 
 </td>
