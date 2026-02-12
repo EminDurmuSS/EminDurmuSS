@@ -98,7 +98,7 @@ Motto: "Build fast, learn faster"
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EminDurmuSS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=EminDurmuSS&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" height="170" />
+  <img src="https://streak-stats.demolab.com?user=EminDurmuSS&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" height="170" />
 </p>
 
 <p align="center">
@@ -106,7 +106,11 @@ Motto: "Build fast, learn faster"
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EminDurmuSS&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF&hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EminDurmuSS&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=EminDurmuSS&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10" />
 </p>
 
 ---
@@ -125,8 +129,12 @@ Motto: "Build fast, learn faster"
 
 <br/>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Alan%20Kay" />
-</p>
+<div align="center">
+
+  ```
+  "The best way to predict the future is to invent it." — Alan Kay
+  ```
+
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3F3D56&height=120&section=footer"/>
