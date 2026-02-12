@@ -24,7 +24,6 @@ I thrive in **hackathons**, love turning problems into elegant solutions under p
 ```yaml
 Location: Istanbul, Turkey
 Education: BSc Computer Software Engineering
-Experience: AI Engineer Intern @ Maastricht University
 Research: Co-author — ISWC 2025 (Nara, Japan)
 Motto: "Build fast, learn faster"
 ```
@@ -38,10 +37,12 @@ Motto: "Build fast, learn faster"
 <img src="https://img.shields.io/badge/🥈_KKB_Agentic_AI_Hackathon-2nd_Place-C0C0C0?style=flat-square" /><br/>
 <img src="https://img.shields.io/badge/🏅_BTK_Akademi_Hackathon_2024-Award_Winner-CD7F32?style=flat-square" /><br/>
 <img src="https://img.shields.io/badge/🏅_Trakya_Algorithm_Hackathon-Finalist-CD7F32?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/🏅_Generative_Media_Hackathon-Finalist-CD7F32?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/🏅_Shopify_Customer_Support_Agentic_Hackathon-Finalist-CD7F32?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/🏅_Teknofest_Technology_for_Humanity-Finalist-CD7F32?style=flat-square" /><br/>
 <img src="https://img.shields.io/badge/📄_RecipeRAG_Paper-ISWC_2025-6C63FF?style=flat-square" /><br/>
 <img src="https://img.shields.io/badge/🎓_Maastricht_University-AI_Research_Intern-6C63FF?style=flat-square" /><br/>
 <img src="https://img.shields.io/badge/👨‍🏫_GDSC_AlgoCamp-Educator-6C63FF?style=flat-square" /><br/>
-<img src="https://img.shields.io/badge/🌍_GDG_/_WTM_Kirklareli-Core_Team-6C63FF?style=flat-square" />
 
 </td>
 </tr>
@@ -69,31 +70,6 @@ Motto: "Build fast, learn faster"
 
 ---
 
-<h3 align="center">📌 Featured Projects</h3>
-
-<p align="center">
-  <a href="https://github.com/EminDurmuSS/shopify-support-agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EminDurmuSS&repo=shopify-support-agent&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
-  </a>
-  <a href="https://github.com/EminDurmuSS/GraphRAG-YoutubePodcast">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EminDurmuSS&repo=GraphRAG-YoutubePodcast&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
-  </a>
-  <a href="https://github.com/EminDurmuSS/ai-expense-tracker-n8n">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EminDurmuSS&repo=ai-expense-tracker-n8n&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
-  </a>
-  <a href="https://github.com/EminDurmuSS/recipe-flow-studio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EminDurmuSS&repo=recipe-flow-studio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
-  </a>
-  <a href="https://github.com/EminDurmuSS/finn-chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EminDurmuSS&repo=finn-chatbot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
-  </a>
-  <a href="https://github.com/EminDurmuSS/Recipe_RAG">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EminDurmuSS&repo=Recipe_RAG&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
-  </a>
-</p>
-
----
-
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
@@ -101,17 +77,6 @@ Motto: "Build fast, learn faster"
   <img src="https://streak-stats.demolab.com?user=EminDurmuSS&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" height="170" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EminDurmuSS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" height="155" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EminDurmuSS&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EminDurmuSS&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10" />
-</p>
 
 ---
 
