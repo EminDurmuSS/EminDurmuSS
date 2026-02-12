@@ -73,10 +73,12 @@ Motto: "Build fast, learn faster"
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EminDurmuSS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF" height="170" />
   <img src="https://streak-stats.demolab.com?user=EminDurmuSS&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" height="170" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EminDurmuSS&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph" />
+</p>
 
 ---
 
